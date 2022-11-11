@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 26 17:45:47 MSK 2021:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): экземпляр a816c00e-0179-a923-8340-00000db3da78
+в каталоге базы данных C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\ep\t7\CatalogDB sun.misc.Launcher$AppClassLoader@18b4aac2 
+
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_265-b01
+user.dir=C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\ep\t7
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
