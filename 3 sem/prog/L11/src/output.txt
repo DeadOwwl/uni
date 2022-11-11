@@ -1,0 +1,5 @@
+|Ross Craymen|333|football|Greg Morison|15.12.2020,17:00|180|24.0|
+|Cristin Burf|1515|Polo|Selista Ron|15.09.2020,10:00|130|23.0|
+|Salew Duckendorf|219|volleyball|Andy McCalester|20.07.1730,13:50|100|20.0|
+|Marvin Devis|4523|Basketball|Hew Grandt|10.02.1510,20:10|310|12.0|
+|Jo Lares|4567|Tennis|Greg Willcraft|10.10.1010,10:10|120|20.0|
