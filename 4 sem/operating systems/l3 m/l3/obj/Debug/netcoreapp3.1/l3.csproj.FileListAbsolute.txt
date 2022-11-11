@@ -1,0 +1,30 @@
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\bin\Debug\netcoreapp3.1\l3.exe
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\bin\Debug\netcoreapp3.1\l3.deps.json
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\bin\Debug\netcoreapp3.1\l3.runtimeconfig.json
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\bin\Debug\netcoreapp3.1\l3.runtimeconfig.dev.json
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\bin\Debug\netcoreapp3.1\l3.dll
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\bin\Debug\netcoreapp3.1\l3.pdb
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.csprojAssemblyReference.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.Form1.resources
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.csproj.GenerateResource.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.AssemblyInfoInputs.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.AssemblyInfo.cs
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.csproj.CoreCompileInputs.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.dll
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.pdb
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3\l3\obj\Debug\netcoreapp3.1\l3.genruntimeconfig.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\bin\Debug\netcoreapp3.1\l3.exe
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\bin\Debug\netcoreapp3.1\l3.deps.json
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\bin\Debug\netcoreapp3.1\l3.runtimeconfig.json
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\bin\Debug\netcoreapp3.1\l3.runtimeconfig.dev.json
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\bin\Debug\netcoreapp3.1\l3.dll
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\bin\Debug\netcoreapp3.1\l3.pdb
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.csprojAssemblyReference.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.Form1.resources
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.csproj.GenerateResource.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.AssemblyInfoInputs.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.AssemblyInfo.cs
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.csproj.CoreCompileInputs.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.dll
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.pdb
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\l3 m\l3\obj\Debug\netcoreapp3.1\l3.genruntimeconfig.cache

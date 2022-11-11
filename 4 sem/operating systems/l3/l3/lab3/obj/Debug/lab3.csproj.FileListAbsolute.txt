@@ -1,0 +1,39 @@
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\5\Desktop\NovayaPapka\os\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\obj\Debug\l3.Form1.resources
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\obj\Debug\lab3.exe
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\obj\Debug\lab3.pdb
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\bin\Debug\lab3.exe.config
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\bin\Debug\lab3.exe
+C:\Users\5\Desktop\NovayaPapka\os\lab3 — копия\lab3\bin\Debug\lab3.pdb
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\bin\Debug\lab3.exe.config
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\bin\Debug\lab3.exe
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\bin\Debug\lab3.pdb
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\obj\Debug\l3.Form1.resources
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\obj\Debug\lab3.exe
+C:\Users\aowl2\OneDrive\Рабочий стол\bsu\4 s\os\pr\lab3\lab3 — копия\lab3\obj\Debug\lab3.pdb
