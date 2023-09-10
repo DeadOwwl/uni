@@ -1,0 +1,191 @@
+-- Добавление данных Владелец
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Нильсен', 'Стокгольм');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Андерсен', 'Осло');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Йенсен', 'Копенгаген');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Карлстен', 'Стокгольм');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Ларсен', 'Уппсала');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Хансен', 'Стокгольм');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Виртанен', 'Осло');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Лайне', 'Стокгольм');
+INSERT INTO horse_owner VALUES(NEXTVAL('seq_ow'), 'Ярвинен', 'Берген');
+
+-- Добавление данных Жокей
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Мюллер', 'Мальмё', TO_DATE('15.05.2000','DD.MM.YYYY'), 1.64, 61);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Шмидт', 'Орхус', TO_DATE('02.09.2002','DD.MM.YYYY'), 1.65, 55);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Шнайдер', 'Берген', TO_DATE('09.12.1994','DD.MM.YYYY'), 1.67, 60);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Фишер', 'Стокгольм', TO_DATE('26.09.1995','DD.MM.YYYY'), 1.69, 62);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Майер', 'Гётеборг', TO_DATE('09.01.1977','DD.MM.YYYY'), 1.70, 59);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Вебер', 'Оденсе', TO_DATE('22.07.2001','DD.MM.YYYY'), 1.69, 57);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Вагнер', 'Осло', TO_DATE('09.06.1992','DD.MM.YYYY'), 1.68, 56);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Беккер', 'Стокгольм', TO_DATE('23.08.1982','DD.MM.YYYY'), 1.71, 56);
+INSERT INTO jockey VALUES(NEXTVAL('seq_jk'), 'Шульц', 'Уппсала', TO_DATE('12.03.1978','DD.MM.YYYY'), 1.68, 58);
+
+-- Добавление данных Порода
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Бельгийский Верховой', 'Пони');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Коннемара', 'Пони');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Хафлингер', 'Пони');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Исландская', 'Пони');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Арабский Скакун', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Аппалуза', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Голландская Теплокровная', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Ганноверская', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Лузитано', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Морган', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Ольденбургская', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Пейнтхорс', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Четвертьмильная', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Французский сель', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Чистокровная верховая', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Сиглави', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Кохелайн ', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Хадбан', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Марвари', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Липпицианская', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Кабардинская', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Голштинская', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Вестфальская', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Орловский рысак', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Буденновский скакун', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Тракененский скакун', 'Легкий');
+INSERT INTO horse_breed VALUES(NEXTVAL('seq_hb'), 'Першерон', 'Тяжелый');
+
+-- Добваление данных Лошадь
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Ветер', 340, TO_DATE('19.12.2015','DD.MM.YYYY'), 'Жеребец', 20, 11);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Буря', 160, TO_DATE('22.04.2008','DD.MM.YYYY'), 'Кобыла', 30, 55);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Вспышка', 170, TO_DATE('29.12.2000','DD.MM.YYYY'), 'Кобыла', 30, 44);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Мустанг', 320, TO_DATE('15.01.2001','DD.MM.YYYY'), 'Мерин', 10, 88);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Разбойник', 210, TO_DATE('08.06.2016','DD.MM.YYYY'), 'Жеребец', 25, 66);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Смирная', 190, TO_DATE('03.10.1997','DD.MM.YYYY'), 'Кобыла', 30, 77);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Тишина', 330, TO_DATE('12.07.1994','DD.MM.YYYY'), 'Кобыла', 30, 33);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Буцефал ', 270, TO_DATE('23.01.2002','DD.MM.YYYY'), 'Мерин', 45, 22);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Ежевика', 210, TO_DATE('31.10.1998','DD.MM.YYYY'), 'Кобыла', 35, 99);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Кондор', 200, TO_DATE('04.04.2008','DD.MM.YYYY'), 'Жеребец', 35, 77);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Обсидиан', 180, TO_DATE('12.11.2015','DD.MM.YYYY'), 'Мерин', 10, 33);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Тень', 150, TO_DATE('06.08.2001','DD.MM.YYYY'), 'Жеребец', 25, 66);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Ворон', 140, TO_DATE('23.04.2014','DD.MM.YYYY'), 'Мерин', 10, 88);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Бархат', 210, TO_DATE('30.09.2006','DD.MM.YYYY'), 'Кобыла', 40, 77);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Моргана', 280, TO_DATE('10.05.2010','DD.MM.YYYY'), 'Кобыла', 15, 88);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Сильвер', 320, TO_DATE('01.01.2017','DD.MM.YYYY'), 'Мерин', 15, 33);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Призрак', 310, TO_DATE('29.07.1996','DD.MM.YYYY'), 'Жеребец', 5, 11);
+INSERT INTO horse VALUES(NEXTVAL('seq_h'), 'Аляска', 290, TO_DATE('02.11.1997','DD.MM.YYYY'), 'Кобыла', 45, 66);
+
+-- Добавление данных Соревнование
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('15.05.2022','DD.MM.YYYY'), '14:00', DEFAULT, 'Кубок MAXIMA PARK', 6, 'Троеборье');
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('17.07.2022','DD.MM.YYYY'), '13:00', 'п. Большевик', 'MAXIMA MASTERS', 3, 'Конкур');
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('10.10.2022','DD.MM.YYYY'), '14:00', 'Минск, Чижовка', 'Минская Осень', 3, 'Выездка');
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('29.10.2022','DD.MM.YYYY'), '14:00', DEFAULT, 'ELITE COMPETITION', 3, 'Конкур');
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('21.11.2022','DD.MM.YYYY'), '14:00', DEFAULT, 'Young Park', 3, 'Троеборье');
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('29.11.2022','DD.MM.YYYY'), '15:00', 'Минск, Чижовка', 'Завершение Осеннего Сезона', 3, 'Рейнинг');
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('03.12.2022','DD.MM.YYYY'), '16:00', DEFAULT, 'Подготовительные Соревнования', 3, 'Вольтижировка');
+INSERT INTO competition VALUES(NEXTVAL('seq_cp'), TO_DATE('04.12.2022','DD.MM.YYYY'), '11:00', 'п. Большевик', 'Повторные Подготовительные Соревнования', 3, 'Драйвинг');
+
+-- Добавление данных Заезд
+INSERT INTO race VALUES(500, 1, 1001, 3);
+INSERT INTO race VALUES(500, 1, 1004, 2);
+INSERT INTO race VALUES(500, 1, 1007, 1);
+INSERT INTO race VALUES(500, 2, 1002, 2);
+INSERT INTO race VALUES(500, 2, 1005, 3);
+INSERT INTO race VALUES(500, 2, 1008, 1);
+INSERT INTO race VALUES(500, 3, 1003, 2);
+INSERT INTO race VALUES(500, 3, 1006, 1);
+INSERT INTO race VALUES(500, 3, 1009, 3);
+INSERT INTO race VALUES(500, 4, 1010, 3);
+INSERT INTO race VALUES(500, 4, 1013, 1);
+INSERT INTO race VALUES(500, 4, 1016, 2);
+INSERT INTO race VALUES(500, 5, 1011, 1);
+INSERT INTO race VALUES(500, 5, 1014, 2);
+INSERT INTO race VALUES(500, 5, 1017, 3);
+INSERT INTO race VALUES(500, 6, 1012, 1);
+INSERT INTO race VALUES(500, 6, 1015, 3);
+INSERT INTO race VALUES(500, 6, 1018, 2);
+
+INSERT INTO race VALUES(510, 1, 1001, 6);
+INSERT INTO race VALUES(510, 1, 1007, 1);
+INSERT INTO race VALUES(510, 1, 1013, 3);
+INSERT INTO race VALUES(510, 1, 1018, 4);
+INSERT INTO race VALUES(510, 1, 1002, 2);
+INSERT INTO race VALUES(510, 1, 1008, 5);
+INSERT INTO race VALUES(510, 2, 1014, 5);
+INSERT INTO race VALUES(510, 2, 1003, 4);
+INSERT INTO race VALUES(510, 2, 1009, 3);
+INSERT INTO race VALUES(510, 2, 1015, 1);
+INSERT INTO race VALUES(510, 2, 1004, 6);
+INSERT INTO race VALUES(510, 2, 1010, 2);
+INSERT INTO race VALUES(510, 3, 1016, 1);
+INSERT INTO race VALUES(510, 3, 1005, 2);
+INSERT INTO race VALUES(510, 3, 1011, 4);
+INSERT INTO race VALUES(510, 3, 1017, 5);
+INSERT INTO race VALUES(510, 3, 1006, 3);
+INSERT INTO race VALUES(510, 3, 1012, 6);
+
+INSERT INTO race VALUES(520, 1, 1001, 3);
+INSERT INTO race VALUES(520, 1, 1002, 1);
+INSERT INTO race VALUES(520, 1, 1003, 5);
+INSERT INTO race VALUES(520, 1, 1004, 6);
+INSERT INTO race VALUES(520, 1, 1005, 4);
+INSERT INTO race VALUES(520, 1, 1006, 2);
+INSERT INTO race VALUES(520, 2, 1018, 6);
+INSERT INTO race VALUES(520, 2, 1017, 1);
+INSERT INTO race VALUES(520, 2, 1016, 4);
+INSERT INTO race VALUES(520, 2, 1015, 3);
+INSERT INTO race VALUES(520, 2, 1014, 5);
+INSERT INTO race VALUES(520, 2, 1013, 2);
+INSERT INTO race VALUES(520, 3, 1012, 1);
+INSERT INTO race VALUES(520, 3, 1011, 4);
+INSERT INTO race VALUES(520, 3, 1010, 2);
+INSERT INTO race VALUES(520, 3, 1009, 6);
+INSERT INTO race VALUES(520, 3, 1008, 3);
+INSERT INTO race VALUES(520, 3, 1007, 5);
+
+INSERT INTO race VALUES(530, 1, 1017, 3);
+INSERT INTO race VALUES(530, 1, 1001, 2);
+INSERT INTO race VALUES(530, 1, 1002, 1);
+INSERT INTO race VALUES(530, 2, 1003, 2);
+INSERT INTO race VALUES(530, 2, 1006, 1);
+INSERT INTO race VALUES(530, 2, 1007, 3);
+INSERT INTO race VALUES(530, 3, 1014, 1);
+INSERT INTO race VALUES(530, 3, 1008, 2);
+INSERT INTO race VALUES(530, 3, 1018, 3);
+
+INSERT INTO race VALUES(540, 1, 1018, 1);
+INSERT INTO race VALUES(540, 1, 1017, 2);
+INSERT INTO race VALUES(540, 1, 1009, 4);
+INSERT INTO race VALUES(540, 1, 1007, 3);
+INSERT INTO race VALUES(540, 2, 1006, 1);
+INSERT INTO race VALUES(540, 2, 1012, 3);
+INSERT INTO race VALUES(540, 2, 1008, 4);
+INSERT INTO race VALUES(540, 2, 1004, 2);
+INSERT INTO race VALUES(540, 3, 1003, 4);
+INSERT INTO race VALUES(540, 3, 1002, 3);
+INSERT INTO race VALUES(540, 3, 1014, 2);
+INSERT INTO race VALUES(540, 3, 1010, 1);
+
+INSERT INTO race VALUES(550, 1, 1017, 2);
+INSERT INTO race VALUES(550, 1, 1001, 1);
+INSERT INTO race VALUES(550, 1, 1002, 3);
+INSERT INTO race VALUES(550, 2, 1003, 1);
+INSERT INTO race VALUES(550, 2, 1006, 3);
+INSERT INTO race VALUES(550, 2, 1007, 2);
+INSERT INTO race VALUES(550, 3, 1014, 3);
+INSERT INTO race VALUES(550, 3, 1008, 1);
+INSERT INTO race VALUES(550, 3, 1018, 2);
+
+INSERT INTO race VALUES(560, 1, 1017, 1);
+INSERT INTO race VALUES(560, 1, 1001, 3);
+INSERT INTO race VALUES(560, 1, 1002, 2);
+INSERT INTO race VALUES(560, 2, 1003, 3);
+INSERT INTO race VALUES(560, 2, 1006, 2);
+INSERT INTO race VALUES(560, 2, 1007, 1);
+INSERT INTO race VALUES(560, 3, 1014, 2);
+INSERT INTO race VALUES(560, 3, 1008, 3);
+INSERT INTO race VALUES(560, 3, 1018, 1);
+
+INSERT INTO race VALUES(570, 1, 1017, 3);
+INSERT INTO race VALUES(570, 1, 1001, 2);
+INSERT INTO race VALUES(570, 1, 1002, 1);
+INSERT INTO race VALUES(570, 2, 1003, 1);
+INSERT INTO race VALUES(570, 2, 1006, 2);
+INSERT INTO race VALUES(570, 2, 1007, 3);
+INSERT INTO race VALUES(570, 3, 1014, 3);
+INSERT INTO race VALUES(570, 3, 1008, 1);
+INSERT INTO race VALUES(570, 3, 1018, 2);
