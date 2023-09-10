@@ -1,0 +1,1 @@
+ml64 SampleNew.txt /link /subsystem:windows /defaultlib:kernel32.lib /defaultlib:User32.lib /entry:Start
