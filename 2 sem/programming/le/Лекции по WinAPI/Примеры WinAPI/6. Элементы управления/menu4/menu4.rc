@@ -1,0 +1,273 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Russian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+#ifdef _WIN32
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&New",                        IDM_FILE_NEW
+        MENUITEM "&Open...",                    IDM_FILE_OPEN
+        MENUITEM "&Save",                       IDM_FILE_SAVE
+        MENUITEM "Save &As...",                 IDM_FILE_SAVEAS
+        MENUITEM SEPARATOR
+        MENUITEM "&Print",                      IDM_FILE_PRINT
+        MENUITEM "Print Pre&view",              IDM_FILE_PREVIEW
+        MENUITEM SEPARATOR
+        MENUITEM "&Exit",                       IDM_FILE_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "&Undo\tCtrl+Z",               IDM_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "&Cut\tCtrl+X",                IDM_EDIT_CUT
+        MENUITEM "&Copy\tCtrl+C",               IDM_EDIT_COPY
+        MENUITEM "&Paste\tCtrl+V",              IDM_EDIT_PASTE
+        MENUITEM SEPARATOR
+        MENUITEM "Pr&operties",                 IDM_EDIT_PROP
+    END
+    POPUP "&Toolbar"
+    BEGIN
+        POPUP "St&yles"
+        BEGIN
+            MENUITEM "CCS_NODIVIDER",               IDM_NODIVIDER
+            MENUITEM "TBSTYLE_WRAPABLE",            IDM_WRAPABLE
+            MENUITEM SEPARATOR
+            MENUITEM "CCS_TOP",                     IDM_TOP
+            MENUITEM "CCS_BOTTOM",                  IDM_BOTTOM
+            MENUITEM "CCS_NOMOVEY",                 IDM_NOMOVEY
+            MENUITEM SEPARATOR
+            MENUITEM "CCS_NOPARENTALIGN",           IDM_NOPARENTALIGN
+            MENUITEM "CCS_NORESIZE",                IDM_NORESIZE
+            MENUITEM SEPARATOR
+            MENUITEM "CCS_ADJUSTABLE",              IDM_ADJUSTABLE
+            MENUITEM "TBSTYLE_ALTDRAG",             IDM_ALTDRAG
+            MENUITEM SEPARATOR
+            MENUITEM "TBSTYLE_TOOLTIPS",            IDM_TOOLTIPS
+        END
+        MENUITEM "&Ignore WM_SIZE",             IDM_IGNORESIZE
+        MENUITEM SEPARATOR
+        POPUP "&Messages"
+        BEGIN
+            MENUITEM "TB_CHECKBUTTON",              IDM_TB_CHECK
+            MENUITEM "TB_ENABLEBUTTON",             IDM_TB_ENABLE
+            MENUITEM "TB_HIDEBUTTON",               IDM_TB_HIDE
+            MENUITEM "TB_INDETERMINATE",            IDM_TB_INDETERMINATE
+            MENUITEM "TB_PRESSBUTTON",              IDM_TB_PRESS
+            MENUITEM SEPARATOR
+            MENUITEM "TB_BUTTONCOUNT",              IDM_TB_BUTTONCOUNT
+            MENUITEM "TB_GETROWS",                  IDM_TB_GETROWS
+            MENUITEM SEPARATOR
+            MENUITEM "TB_CUSTOMIZE",                IDM_TB_CUSTOMIZE
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "&Large Icons",                IDM_LARGEICONS
+        MENUITEM "&Small Icons",                IDM_SMALLICONS
+        MENUITEM SEPARATOR
+        MENUITEM "S&trings",                    IDM_STRINGS
+        MENUITEM "&Combo Box",                  IDM_COMBOBOX
+    END
+    POPUP "&Statusbar"
+    BEGIN
+        POPUP "&Styles"
+        BEGIN
+            MENUITEM "SBARS_SIZEGRIP",              IDM_STAT_SIZEGRIP
+            MENUITEM SEPARATOR
+            MENUITEM "CCS_TOP",                     IDM_STAT_TOP
+            MENUITEM "CCS_BOTTOM",                  IDM_STAT_BOTTOM
+            MENUITEM "CCS_NOMOVEY",                 IDM_STAT_NOMOVEY
+            MENUITEM SEPARATOR
+            MENUITEM "CCS_NOPARENTALIGN",           IDM_STAT_NOPARENTALIGN
+            MENUITEM "CCS_NORESIZE",                IDM_STAT_NORESIZE
+        END
+        MENUITEM "&Ignore WM_SIZE",             IDM_STAT_IGNORESIZE
+        MENUITEM SEPARATOR
+        POPUP "&Messages"
+        BEGIN
+            MENUITEM "SB_GETBORDERS",               IDM_ST_GETBORDERS
+            MENUITEM "SB_GETPARTS",                 IDM_ST_GETPARTS
+            MENUITEM "SB_SETTEXT",                  IDM_ST_SETTEXT
+            MENUITEM SEPARATOR
+            MENUITEM "SB_SIMPLE",                   IDM_ST_SIMPLE
+        END
+    END
+    POPUP "&Notifications"
+    BEGIN
+        MENUITEM "&Clear",                      IDM_NOTIFICATIONS_CLEAR
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Toolbar",                    IDM_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 IDM_VIEW_STATUSBAR
+        MENUITEM "&Notifications",              IDM_VIEW_NOTIFICATIONS
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "icon1.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_MAIN_MENU           "Create, open, save, print documents or quit program"
+    IDS_MAIN_MENU1          "Undo, cut, copy, paste, and properties"
+    IDS_MAIN_MENU2          "Toolbar styles, messages, and creation options"
+    IDS_MAIN_MENU3          "Status bar styles and messages"
+    IDS_MAIN_MENU4          "Clear notifications window"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_MAIN_MENU5          "Show or hide toolbar, status bar, and notifications window"""
+    IDS_TOOLBAR_MENU        "Set toolbar styles and re-create toolbar"
+    IDS_TOOLBAR_MENU1       "placeholder"
+    IDS_TOOLBAR_MENU2       "placeholder"
+    IDS_TOOLBAR_MENU3       "Send messages to toolbar"
+    IDS_STATUSBAR_MENU      "Set status bar styles and re-create status bar"
+    IDS_STATUSBAR_MENU1     "placeholder"
+    IDS_STATUSBAR_MENU2     "placeholder"
+    IDS_STATUSBAR_MENU3     "Send messages to status bar"
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_FILE_NEW            "Creates a new document"
+    IDM_FILE_OPEN           "Open an existing document"
+    IDM_FILE_SAVE           "Save the active document"
+    IDM_FILE_SAVEAS         "Save the active document with a new name"
+    IDM_FILE_PRINT          "Prints the active document"
+    IDM_FILE_PREVIEW        "Displays full pages as they will be printed"
+    IDM_FILE_EXIT           "Quits program"
+    IDM_NOTIFICATIONS_CLEAR "Clear contents of notification window"
+    IDM_VIEW_TOOLBAR        "Show/hide toolbar"
+    IDM_VIEW_STATUSBAR      "Show/hide status bar"
+    IDM_VIEW_NOTIFICATIONS  "Show/hide notification window"
+    IDM_EDIT_UNDO           "Reverse the last action"
+    IDM_EDIT_CUT            "Cuts the selection and puts it on the Clipboard"
+    IDM_EDIT_COPY           "Copies the selection and puts it on the Clipboard"
+    IDM_EDIT_PASTE          "Inserts the Clipboard contents at the insertion point"
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_EDIT_PROP           "Opens property sheet for currently selected item"
+    IDM_ST_SIMPLE           "Toggle status bar simple state"
+    IDM_ST_SETTEXT          "Set text in status bar"
+    IDM_ST_GETPARTS         "Query number of status bar parts"
+    IDM_ST_GETBORDERS       "Query size of status bar borders"
+    IDM_STAT_IGNORESIZE     "Toggle WM_SIZE handling to show autosize/auto move"
+    IDM_STAT_SIZEGRIP       "Status bar to have sizing grip"
+    IDM_STAT_TOP            "Toggle placing status bar at top of parent"
+    IDM_STAT_BOTTOM         "Toggle placing status bar at bottom of parent"
+    IDM_STAT_NOMOVEY        "Toggle inhibit moving window on Y-axis"
+    IDM_STAT_NOPARENTALIGN  "Toggle inhibit aligning to parent"
+    IDM_STAT_NORESIZE       "Toggle inhibit any sizing or moving"
+    IDM_IGNORESIZE          "Toggle WM_SIZE handling to show auto-size/auto move"
+    IDM_NODIVIDER           "Toggle divider above toolbar"
+    IDM_WRAPABLE            "Toggle toolbar resizing for narrow window"
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_SMALLICONS          "Creates toolbar with small icons"
+    IDM_STRINGS             "Creates toolbar with strings"
+    IDM_COMBOBOX            "Creates toolbar with combobox"
+    IDM_TOOLTIPS            "Toggle tooltip support"
+END
+
+STRINGTABLE 
+BEGIN
+    IDM_TOP                 "Toggle placing toolbar at top of parent"
+    IDM_BOTTOM              "Toggle placing toolbar at bottom of parent"
+    IDM_NOMOVEY             "Toggle inhibit moving window on Y-axis"
+    IDM_NOPARENTALIGN       "Toggle inhibit aligning to parent"
+    IDM_NORESIZE            "Toggle inhibit any sizing or moving"
+    IDM_ADJUSTABLE          "Toggle ability for user to customize toolbar"
+    IDM_ALTDRAG             "Toggle Alt-click to drag buttons"
+    IDM_TB_CHECK            "Toggle button 0 checked state"
+    IDM_TB_ENABLE           "Toggle button 1 enabled state"
+    IDM_TB_HIDE             "Toggle button 2 hidden state"
+    IDM_TB_INDETERMINATE    "Toggle button 3 indeterminate state"
+    IDM_TB_PRESS            "Toggle button 4 pressed state"
+    IDM_TB_BUTTONCOUNT      "Query button count"
+    IDM_TB_GETROWS          "Query row count"
+    IDM_TB_CUSTOMIZE        "Request customize dialog box"
+    IDM_LARGEICONS          "Creates toolbar with large icons"
+END
+
+#endif    // Russian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

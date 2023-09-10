@@ -1,0 +1,9 @@
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\obj\Debug\Задание 0.csprojAssemblyReference.cache
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\obj\Debug\Задание_0.Properties.Resources.resources
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\obj\Debug\Задание 0.csproj.GenerateResource.cache
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\bin\Debug\Задание 0.exe.config
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\bin\Debug\Задание 0.exe
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\bin\Debug\Задание 0.pdb
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\obj\Debug\Задание 0.exe
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\obj\Debug\Задание 0.pdb
+D:\alink\bsu\2 s\sp\C#\Задание 0\Задание 0\obj\Debug\Задание 0.csproj.CoreCompileInputs.cache
