@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="xmlMessageConnect" type="xmlMessageConnect"/>
+
+  <xs:complexType name="xmlMessageConnect">
+    <xs:sequence>
+      <xs:element name="data" type="data" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="data">
+    <xs:sequence/>
+    <xs:attribute name="id" type="xs:byte" use="required"/>
+  </xs:complexType>
+</xs:schema>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="xmlMessageMenuResult" type="xmlMessageMenuResult"/>
+
+  <xs:complexType name="xmlMessageMenuResult">
+    <xs:sequence>
+      <xs:element name="data" type="data" minOccurs="0"/>
+      <xs:element name="options" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="data">
+    <xs:sequence/>
+    <xs:attribute name="id" type="xs:byte" use="required"/>
+    <xs:attribute name="command" type="xs:byte" use="required"/>
+    <xs:attribute name="errMessage" type="xs:string"/>
+  </xs:complexType>
+</xs:schema>
+
