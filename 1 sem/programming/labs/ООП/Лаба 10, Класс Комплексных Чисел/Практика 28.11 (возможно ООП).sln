@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Практика 28.11 (возможно ООП)", "Практика 28.11 (возможно ООП)\Практика 28.11 (возможно ООП).vcxproj", "{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Debug|x64.ActiveCfg = Debug|x64
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Debug|x64.Build.0 = Debug|x64
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Debug|x86.Build.0 = Debug|Win32
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Release|x64.ActiveCfg = Release|x64
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Release|x64.Build.0 = Release|x64
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Release|x86.ActiveCfg = Release|Win32
+		{6FEA9934-CA96-445F-9D38-F3FF6CF0A6B2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EEDC088-974C-4DE3-AE21-36D001852725}
+	EndGlobalSection
+EndGlobal
